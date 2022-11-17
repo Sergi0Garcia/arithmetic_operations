@@ -1,5 +1,5 @@
 // Arithmetic Operations
-//and(%)or(|)not()add(+)
+// and(%)or(|)not()add(+)
 
 #include "./header.h"
 
