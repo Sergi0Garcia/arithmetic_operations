@@ -3,4 +3,5 @@
 <em>
 Small program to display basic arithmetic operations with bit representation of numbers
 </em>
-[!img]("./images/res.png")
+<br />
+![img](./images/res.png)
